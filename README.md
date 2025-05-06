@@ -1,5 +1,18 @@
-# Demo Link(https://loan-calculator-react-app.vercel.app)
+# 💰 Loan Calculator React App
 
+A sleek, responsive **Loan EMI Calculator** built with React. This app allows users to estimate their monthly loan payments based on principal, interest rate, and loan term — with a smooth UI and theme toggle support.
+
+## 🌟 Features
+
+✅ Fully functional **EMI (Equated Monthly Installment) calculator**  
+✅ **Dark/Light theme** support  
+✅ Fully **responsive design** for all screen sizes  
+✅ Deployed with **Vercel** for fast and reliable hosting
+
+## 🚀 Live Demo
+
+Check out the live app here:  
+🔗 [https://loan-calculator-react-app.vercel.app](https://loan-calculator-react-app.vercel.app)
 
 
 # Getting Started with Create React App
