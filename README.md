@@ -5,6 +5,7 @@ A sleek, responsive **Loan EMI Calculator** built with React. This app allows us
 ## 🌟 Features
 
 ✅ Fully functional **EMI (Equated Monthly Installment) calculator**  
+✅ Currency conversion
 ✅ **Dark/Light theme** support  
 ✅ Fully **responsive design** for all screen sizes  
 ✅ Deployed with **Vercel** for fast and reliable hosting
